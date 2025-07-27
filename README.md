@@ -9,6 +9,10 @@ An interactive dashboard project designed to analyze Flipkart's sales data using
 - Enables user-friendly data exploration with slicers for city, category, and payment types.
 - Visualizes KPIs, monthly sales trends, total orders, and customer purchase patterns.
 
+## Screenshots
+
+- [Dashboard Overview]([https://github.com/StanicX/Customer-Segmentation-Project-Using-SQL-Project/blob/main/Screenshot-2025-07-27-211224.jpg](https://github.com/StanicX/Flipkart-E-Commerce-Dashboard/blob/1b04c448ec02dbbd0b86b3c3ab1e5fc89f406c4c/Flipkart%20sales%20dashboard.png)
+
 ## Requirements
 
 - Microsoft Power BI Desktop or compatible BI tool.
